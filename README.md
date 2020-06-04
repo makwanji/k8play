@@ -1,1 +1,1 @@
-# k8play
+# k8play - This project is to create some simple kubernati application
